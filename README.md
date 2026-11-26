@@ -1,7 +1,3 @@
-# Coffee-Sales-Performance-Analysis
-The analysis provides useful insights into coffee shop sales performance and provided recommendations to the business owner to assist in making informed decision. It covers data from January to June 2023 and uses Microsoft Excel for data analysis and visualization.
-Coffee Shop Sales Analysis (January – June 2023)
-
 ## Project Overview
 
 This project focuses on analyzing coffee shop sales data from January to June 2023 using Microsoft Excel.
@@ -93,15 +89,15 @@ Based on the analysis, the following recommendations can be considered:
 5. **Strengthen Product Marketing:** Continue promoting Coffee and Tea categories because they contribute significantly to total revenue.
 
 ## Dashboard Preview
-<img width="1536" height="572" alt="Screenshot 2026-11-26 174434" src="https://github.com/user-attachments/assets/c763704f-5a3b-42b8-92f0-a7fb91c1a843" />
+<img width="1536" height="572" alt="coffee sales" src="https://github.com/user-attachments/assets/9432b10e-e1ed-469a-94ed-7714d4e8dfb9" />
+
 
 
 
 ## Project Files
-- [Coffee Shop Sales analyzed and visualized.xlsx](https://github.com/user-attachments/files/35474925/Coffee.Shop.Sales.analyzed.and.visualized.xlsx)  Contains the transaction dataset, pivot tables, and dashboard.
-- [Raw Coffee Shop Sales untouched.xlsx](https://github.com/user-attachments/files/35474877/Raw.Coffee.Shop.Sales.untouched.xlsx)
+- [Coffee-Sales-Performance-Analysis.xlsx](https://github.com/user-attachments/files/35486862/Coffee-Sales-Performance-Analysis.xlsx)
+Contains the transaction dataset, pivot tables, and dashboard.
 
-- <img width="1536" height="572" alt="Screenshot 2026-11-26 174434" src="https://github.com/user-attachments/assets/cf632b5d-8891-4da9-b15e-b5b8d097cff8" />
 
 
 ## Conclusion
