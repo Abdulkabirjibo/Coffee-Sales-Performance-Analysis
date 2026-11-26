@@ -44,7 +44,7 @@ The analysis aimed to answer the following questions:
 
 | KPI                 | Result         |
 | ------------------- | -------------- |
-| Total Sales Revenue | 698,812.33     |
+| Total Sales Revenue | $698,812.33     |
 | Total Transactions  | 149,116        |
 | Total Quantity Sold | 214,470        |
 | Reporting Period    | Jan – Jun 2023 |
@@ -53,30 +53,30 @@ The analysis aimed to answer the following questions:
 
 ### 1. Product Category Performance
 
-- Coffee was the highest revenue-generating category, with 269,952.45 in sales.
-- Tea followed with 196,405.95.
-- Bakery generated 82,315.64.
+- Coffee was the highest revenue-generating category, with $269,952.45 in sales.
+- Tea followed with $196,405.95.
+- Bakery generated $82,315.64.
 - Packaged Chocolate recorded the lowest category revenue, with 4,407.64.
 
 ### 2. Best-Selling Products
 
-- Barista Espresso was the highest revenue-generating product type, with 91,406.20 in sales.
-- Brewed Chai Tea generated 77,081.95.
-- Hot Chocolate generated 72,416.00.
+- Barista Espresso was the highest revenue-generating product type, with $91,406.20 in sales.
+- Brewed Chai Tea generated $77,081.95.
+- Hot Chocolate generated $72,416.00.
 
 ### 3. Monthly Sales Performance
 
-- June recorded the highest sales, generating 166,485.88.
-- May followed with 156,727.76.
-- February recorded the lowest sales, generating 76,145.19.
+- June recorded the highest sales, generating $166,485.88.
+- May followed with $156,727.76.
+- February recorded the lowest sales, generating $76,145.19.
 
 ### 4. Store Location Performance
 
 Based on sales revenue calculated from the transaction records:
 
-- Hell's Kitchen generated 236,511.17.
-- Astoria generated 232,243.91.
-- Lower Manhattan generated 230,057.25.
+- Hell's Kitchen generated $236,511.17.
+- Astoria generated $232,243.91.
+- Lower Manhattan generated $230,057.25.
 
 ## Recommendations
 
